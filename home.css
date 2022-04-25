@@ -1,0 +1,52 @@
+*{
+    background-image: url("/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header{
+  font-family: 'Racing Sans One', cursive;
+    color: #fff;
+}
+
+.navbar-brand{
+    font-size: larger
+}
+h1{
+    font-family: 'Racing Sans One', cursive;
+    text-align: center;
+    margin-top: 10%;
+}
+.button{
+    font-family: 'Racing Sans One', cursive;
+    text-align: center;
+}
+.button:hover{
+    font-family: 'Racing Sans One', cursive;
+}
+.reset{
+    font-family: 'Racing Sans One', cursive;
+    text-align: center;
+}
+.reset:hover{
+    font-family: 'Racing Sans One', cursive;
+}
+.user{
+    font-family: 'Racing Sans One', cursive;
+    font-size: larger;
+}
+.pwd{
+    font-family: 'Racing Sans One', cursive;
+    font-size: larger;
+}
+.form-control{
+    font-family: 'Racing Sans One', cursive;
+}
+#sign{
+    padding: 10px 20px;
+    font-size: 20px;
+}
+#login{
+    padding: 10px 20px;
+    font-size: 20px;
+}
